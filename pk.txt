@@ -1,0 +1,57 @@
+GitHub is a website where people store, manage, share, and collaborate on code. It is widely used by software developers, students, and teams to build websites, apps, and other software projects.
+
+Website: GitHub — [github.com](<https://github.com>)
+
+How to Host Your Project on GitHub – Explained With Examples
+
+## What can you do with GitHub?
+
+- 💻 Store code: Keep your programming projects online.
+- 🤝 Collaborate: Work on the same project with friends or teammates.
+- 🕒 Track changes: See what changed in your code and who changed it.
+- 🌍 Share projects: Let others view, download, or contribute to your code.
+- 📚 Learn programming: Explore projects created by developers worldwide.
+- 🚀 Publish websites: Use GitHub Pages to host certain websites for free.
+
+## Git vs. GitHub — what's the difference?
+
+| Git | GitHub |
+| --- | --- |
+| A tool that tracks changes in files and code. | An online platform for storing and collaborating on projects. |
+| Works on your computer. | Works primarily through the internet. |
+| Tracks your project's history. | Stores Git repositories online and provides collaboration tools. |
+
+Think of Git as the tool and GitHub as the online home for your projects.
+
+## How does GitHub work?
+
+Imagine you're building a website.
+
+1. Write your code
+
+Create your website on your computer.
+
+2. Track changes with Git
+
+Save snapshots of your project's progress.
+
+3. Upload to GitHub
+
+Store your code online and share it with others.
+
+## What is a repository?
+
+A repository (repo) is a place where a project's files and change history are stored. For example, a website project might have HTML, CSS, JavaScript, images, and documentation in one repository.
+
+## Is GitHub useful for beginners?
+
+Yes! You can use GitHub to:
+
+- Upload your college or personal projects.
+- Build a portfolio to show employers.
+- Learn from other people's code.
+- Collaborate on open-source projects.
+
+My recommendation: If you're learning programming, start by creating a free GitHub account and uploading a small project.
+
+Are you learning programming right now, or do you want to understand GitHub for another purpose?
